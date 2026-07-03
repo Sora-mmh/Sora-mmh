@@ -6,7 +6,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BB1A4&center=true&vCenter=true&width=500&lines=Deep+Learning+%7C+Computer+Vision+Engineer;Passionate+about+AI%2C+DL%2C+CV%2C+NLP%2C+RL;Building+data-driven+applications)](https://git.io/typing-svg)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=Sora-mmh&repo=github-visitors-badge&countColor=%237B1E7A)
+<!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Sora-mmh&repo=github-visitors-badge&countColor=%237B1E7A) -->
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:montassarmhamdi9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/montassarmhamdi/)
@@ -74,6 +74,6 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Sora-mmh&color=5BB1A4&style=flat-square)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Sora-mmh&color=5BB1A4&style=flat-square) -->
 
 </div>
