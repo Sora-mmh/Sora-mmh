@@ -8,7 +8,7 @@
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Sora-mmh&repo=github-visitors-badge&countColor=%237B1E7A) -->
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:montassarmhamdi9@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:montassar.mhamdi.pro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/montassarmhamdi/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/montassarmhamdi9/)
 
