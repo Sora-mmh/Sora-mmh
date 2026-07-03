@@ -72,8 +72,3 @@
 
 <br>
 
-<div align="center">
-
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=Sora-mmh&color=5BB1A4&style=flat-square) -->
-
-</div>
