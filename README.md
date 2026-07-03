@@ -23,12 +23,11 @@
 
 --- 
 
-<!-- ## Tech Stack
-
+## Tech Stack
 
 <div align="center">
 
-<!-- |<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="70px">|<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">
+|<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="70px">|<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Python</strong></p>|<p align="center"><strong>Matlab</strong></p>|<p align="center"><strong>Pandas</strong></p>|<p align="center"><strong>Matplotlib</strong></p>| 
 
@@ -42,8 +41,6 @@
 |<p align="center"><strong>Linux</strong></p>|<p align="center"><strong>Docker</strong></p>|<p align="center"><strong>Git</strong></p>|<p align="center"><strong></strong></p>|
 
 </div>
-
--->
 
 ## My Stats 
 
