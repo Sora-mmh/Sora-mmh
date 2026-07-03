@@ -47,7 +47,6 @@
 
 ## My Stats 
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=Sora-mmh&theme=dracula&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Sora-mmh&theme=dracula&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sora-mmh&theme=dracula&show_icons=true&hide_border=true&layout=compact' />
-<img width=400 src='https://leetcard.jacoblin.cool/Sora-mmh?ext=heatmap&theme=dark' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Sora-mmh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Sora-mmh&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sora-mmh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
